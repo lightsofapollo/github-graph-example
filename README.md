@@ -1,4 +1,5 @@
 github-graph-example
 ====================
 
-Graph example and testing repository for github integration(s)
+See the [configuration](./taskcluster.json) which is used by some tests
+and as a very simple example.

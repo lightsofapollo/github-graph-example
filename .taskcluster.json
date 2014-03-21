@@ -1,0 +1,22 @@
+{
+  "tasks": {
+    "test": {
+      "task": {
+        "metadata": {
+          "owner": "jlal@mozilla.com"
+        },
+        "payload": {
+          "image": "ubuntu",
+          "command": [
+            "ls"
+          ]
+        },
+        "tags": {
+          "treeherderProject": "taskcluster-integration-test",
+          "treeherderSymbol": "TCT"
+        }
+      }
+    }
+  }
+}
+
